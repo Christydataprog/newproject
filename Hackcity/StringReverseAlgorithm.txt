@@ -1,0 +1,9 @@
+ A. Take the string which you have to reverse as the input variable says str.
+
+B. Calculate the length of the string. 
+The actual length of the string is one < the number of characters in the string. 
+Let actual length be len.
+
+C. Use a "For loop" to iterate the string using a temporary variable to swap the elements.
+
+D. Print the reversed string.
