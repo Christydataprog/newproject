@@ -1,0 +1,8 @@
+Steps: 
+
+A. Pick one string of any length and calculate its length.
+B. Scan string character by character and keep looking at the index. 
+C. If a character in an index is in lower case, 
+then subtract 32 to convert it in upper case,
+else add 32 to convert it in lower case
+D. Print the final string.
